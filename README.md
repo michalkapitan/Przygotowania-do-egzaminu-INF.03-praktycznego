@@ -1,4 +1,4 @@
-# Egzaminy.INF.03
+# Przygotowania do egzaminu praktycznego INF.03
 
 <h1 align="left">Hi!</h1>
 
